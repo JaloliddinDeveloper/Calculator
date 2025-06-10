@@ -8,4 +8,4 @@ Calculator
 This Project is for mathimatic operations
 
 ##Demo
-![demo](Calculator/Calculator/Assets/Depo.png.png)
+![demo](https://github.com/JaloliddinDeveloper/Calculator/blob/main/Calculator/Assets/Depo.png.png)
