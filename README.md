@@ -8,5 +8,5 @@ Calculator
 This Project is for mathimatic operations
 
 ##Demo
-![demo](/Calculator/Assets
+![demo](Calculator/Assets
 /Depo.png.png)
